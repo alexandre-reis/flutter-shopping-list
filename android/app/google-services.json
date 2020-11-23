@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "368129516609",
+    "firebase_url": "https://shopping-list-upf.firebaseio.com",
+    "project_id": "shopping-list-upf",
+    "storage_bucket": "shopping-list-upf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368129516609:android:80e46292e708fb805512c0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_shopping_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368129516609-kio0bf084rrdhr0obvgq51b0g0p4quio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFofO9kMblMVUYOX33ZpEWGQckVBHalWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368129516609-kio0bf084rrdhr0obvgq51b0g0p4quio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
